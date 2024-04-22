@@ -4,6 +4,7 @@ module.exports = {
 		version: '2.5.4',
 		author: 'Deku', // credits owner of this api
 		role: 2,
+		countDown: 120,
 		category: 'Ai',
 		shortDescription: {
 			en: '[👑] Mayra Ai  pro',
